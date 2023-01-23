@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net5.0\CentralitaTelefonica.exe
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net5.0\Logica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net5.0\Logica.pdb
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.csproj.CopyComplete
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\refint\CentralitaTelefonica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net5.0\CentralitaTelefonica.pdb

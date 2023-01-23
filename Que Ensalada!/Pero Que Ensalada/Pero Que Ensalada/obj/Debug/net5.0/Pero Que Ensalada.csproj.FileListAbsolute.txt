@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\bin\Debug\net5.0\Pero Que Ensalada.deps.json
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\bin\Debug\net5.0\Pero Que Ensalada.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\bin\Debug\net5.0\Pero Que Ensalada.pdb
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\refint\Pero Que Ensalada.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\Pero Que Ensalada.pdb
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Pero Que Ensalada\obj\Debug\net5.0\ref\Pero Que Ensalada.dll

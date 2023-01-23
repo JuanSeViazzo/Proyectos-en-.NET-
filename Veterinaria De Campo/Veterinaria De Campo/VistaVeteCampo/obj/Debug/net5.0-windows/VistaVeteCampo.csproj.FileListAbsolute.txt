@@ -1,0 +1,22 @@
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.Properties.Resources.resources
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.csproj.GenerateResource.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.Form1.resources
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.exe
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.deps.json
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.runtimeconfig.json
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.runtimeconfig.dev.json
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\VistaVeteCampo.pdb
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\Veterinaria De Campo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\bin\Debug\net5.0-windows\Veterinaria De Campo.pdb
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.csproj.CopyComplete
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\refint\VistaVeteCampo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.pdb
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\VistaVeteCampo.genruntimeconfig.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\VistaVeteCampo\obj\Debug\net5.0-windows\ref\VistaVeteCampo.dll

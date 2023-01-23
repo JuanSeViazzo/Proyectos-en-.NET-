@@ -1,0 +1,21 @@
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A_Contar_Palabras.ContadorDePalabras.resources
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.csproj.GenerateResource.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.exe
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.deps.json
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.runtimeconfig.json
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.runtimeconfig.dev.json
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\A Contar Palabras.pdb
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\logicaDeNegocio.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\bin\Debug\net5.0-windows\logicaDeNegocio.pdb
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.csproj.CopyComplete
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\refint\A Contar Palabras.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.pdb
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\A Contar Palabras.genruntimeconfig.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\A Contar Palabras\obj\Debug\net5.0-windows\ref\A Contar Palabras.dll

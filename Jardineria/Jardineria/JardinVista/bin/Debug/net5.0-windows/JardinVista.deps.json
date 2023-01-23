@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JardinVista/1.0.0": {
+        "dependencies": {
+          "Jardineria": "1.0.0"
+        },
+        "runtime": {
+          "JardinVista.dll": {}
+        }
+      },
+      "Jardineria/1.0.0": {
+        "runtime": {
+          "Jardineria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JardinVista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jardineria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A Contar Palabras/1.0.0": {
+        "dependencies": {
+          "logicaDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "A Contar Palabras.dll": {}
+        }
+      },
+      "logicaDeNegocio/1.0.0": {
+        "runtime": {
+          "logicaDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A Contar Palabras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "logicaDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

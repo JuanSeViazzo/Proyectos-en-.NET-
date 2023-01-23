@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{74884F24-FD1C-4522-96FB-0635FD24BA5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9EEF97D1-A5C2-4877-825C-C5A55A7549BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual", "Visual\Visual.csproj", "{90E95527-A3EF-4B72-8F31-44D318EE0A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74884F24-FD1C-4522-96FB-0635FD24BA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74884F24-FD1C-4522-96FB-0635FD24BA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74884F24-FD1C-4522-96FB-0635FD24BA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74884F24-FD1C-4522-96FB-0635FD24BA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEF97D1-A5C2-4877-825C-C5A55A7549BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEF97D1-A5C2-4877-825C-C5A55A7549BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEF97D1-A5C2-4877-825C-C5A55A7549BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEF97D1-A5C2-4877-825C-C5A55A7549BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E95527-A3EF-4B72-8F31-44D318EE0A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E95527-A3EF-4B72-8F31-44D318EE0A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E95527-A3EF-4B72-8F31-44D318EE0A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E95527-A3EF-4B72-8F31-44D318EE0A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F74796-21DB-4D37-95A7-F2008CF31131}
+	EndGlobalSection
+EndGlobal
