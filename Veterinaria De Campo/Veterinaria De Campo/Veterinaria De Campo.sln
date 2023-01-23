@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinaria De Campo", "Veterinaria De Campo\Veterinaria De Campo.csproj", "{ADC99800-8897-4AFF-AF5A-C6CCC2B6E688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaVeteCampo", "VistaVeteCampo\VistaVeteCampo.csproj", "{F7922C4F-3D48-4A2E-BE99-247CA2CF99C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC99800-8897-4AFF-AF5A-C6CCC2B6E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC99800-8897-4AFF-AF5A-C6CCC2B6E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC99800-8897-4AFF-AF5A-C6CCC2B6E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC99800-8897-4AFF-AF5A-C6CCC2B6E688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7922C4F-3D48-4A2E-BE99-247CA2CF99C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7922C4F-3D48-4A2E-BE99-247CA2CF99C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7922C4F-3D48-4A2E-BE99-247CA2CF99C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7922C4F-3D48-4A2E-BE99-247CA2CF99C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFEBEA3-4863-49AD-A4B3-9552BEB5EC84}
+	EndGlobalSection
+EndGlobal

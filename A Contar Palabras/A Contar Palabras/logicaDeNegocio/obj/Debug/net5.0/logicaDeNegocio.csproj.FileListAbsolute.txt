@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\bin\Debug\net5.0\logicaDeNegocio.deps.json
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\bin\Debug\net5.0\logicaDeNegocio.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\bin\Debug\net5.0\logicaDeNegocio.pdb
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\refint\logicaDeNegocio.dll
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\logicaDeNegocio.pdb
+C:\Users\juans\source\Examenes\A Contar Palabras\A Contar Palabras\logicaDeNegocio\obj\Debug\net5.0\ref\logicaDeNegocio.dll

@@ -1,0 +1,22 @@
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.exe
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.deps.json
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.runtimeconfig.json
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.runtimeconfig.dev.json
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Recetario.pdb
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Pero Que Ensalada.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\bin\Debug\net5.0-windows\Pero Que Ensalada.pdb
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.Form1.resources
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.csproj.GenerateResource.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.csproj.CopyComplete
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\refint\Recetario.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.pdb
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.genruntimeconfig.cache
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\ref\Recetario.dll
+C:\Users\juans\source\Examenes\Que Ensalada!\Pero Que Ensalada\Recetario\obj\Debug\net5.0-windows\Recetario.Receta.resources

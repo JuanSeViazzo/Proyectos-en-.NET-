@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\bin\Debug\net5.0\Veterinaria De Campo.deps.json
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\bin\Debug\net5.0\Veterinaria De Campo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\bin\Debug\net5.0\Veterinaria De Campo.pdb
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\refint\Veterinaria De Campo.dll
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\Veterinaria De Campo.pdb
+C:\Users\juans\source\Examenes\Veterinaria De Campo\Veterinaria De Campo\Veterinaria De Campo\obj\Debug\net5.0\ref\Veterinaria De Campo.dll

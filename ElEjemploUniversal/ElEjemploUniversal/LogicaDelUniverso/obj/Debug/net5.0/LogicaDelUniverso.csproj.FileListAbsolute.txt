@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\bin\Debug\net5.0\LogicaDelUniverso.deps.json
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\bin\Debug\net5.0\LogicaDelUniverso.dll
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\bin\Debug\net5.0\LogicaDelUniverso.pdb
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.dll
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\refint\LogicaDelUniverso.dll
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\LogicaDelUniverso.pdb
+C:\Users\juans\source\Examenes\ElEjemploUniversal\ElEjemploUniversal\LogicaDelUniverso\obj\Debug\net5.0\ref\LogicaDelUniverso.dll

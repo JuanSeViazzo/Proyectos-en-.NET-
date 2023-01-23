@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ElEjemploUniversal/1.0.0": {
+        "dependencies": {
+          "LogicaDelUniverso": "1.0.0"
+        },
+        "runtime": {
+          "ElEjemploUniversal.dll": {}
+        }
+      },
+      "LogicaDelUniverso/1.0.0": {
+        "runtime": {
+          "LogicaDelUniverso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElEjemploUniversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaDelUniverso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

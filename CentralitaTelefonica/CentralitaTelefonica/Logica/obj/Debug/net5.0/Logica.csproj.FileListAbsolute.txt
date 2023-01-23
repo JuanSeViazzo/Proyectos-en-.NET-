@@ -1,0 +1,12 @@
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\refint\Logica.dll
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\juans\source\Examenes\CentralitaTelefonica\CentralitaTelefonica\Logica\obj\Debug\net5.0\ref\Logica.dll

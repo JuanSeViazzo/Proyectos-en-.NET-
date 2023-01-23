@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CieguitoVolador/1.0.0": {
+        "dependencies": {
+          "BibliotecaUniversidad": "1.0.0.0"
+        },
+        "runtime": {
+          "CieguitoVolador.dll": {}
+        }
+      },
+      "BibliotecaUniversidad/1.0.0.0": {
+        "runtime": {
+          "BibliotecaUniversidad.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CieguitoVolador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaUniversidad/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
